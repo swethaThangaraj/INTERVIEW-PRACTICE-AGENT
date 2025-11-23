@@ -1,4 +1,4 @@
-# 🎤 Interview Practice Agent
+#  Interview Practice Agent
 
 A conversational AI-powered interview simulation tool designed to help users practice real-world interview scenarios through dynamic dialogue, adaptive follow-ups, and structured feedback.
 
@@ -6,7 +6,7 @@ This project was built specifically to demonstrate strong **conversational quali
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The Interview Practice Agent simulates realistic HR interviews for multiple roles such as:
 
@@ -30,7 +30,7 @@ It also supports different user personas for evaluation:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Frontend (React)  --->  Backend API (Flask)  --->  Interview Logic Engine
@@ -90,7 +90,7 @@ Files:
 
 ---
 
-## 🧠 Intelligence Design
+##  Intelligence Design
 
 ### Adaptive Question Flow
 
@@ -133,7 +133,7 @@ Returns:
 
 ---
 
-## 🎯 Design Decisions
+## Design Decisions
 
 ### Why Flask?
 
@@ -164,9 +164,9 @@ This enhances realism and interview experience.
 
 ---
 
-## 🧪 Demo Personas Implemented
+##  Demo Personas Implemented
 
-### ✅ Confused User
+### Confused User
 
 Answers like:
 "I don’t know" or "Not sure"
@@ -176,7 +176,7 @@ Agent Response:
 * Requests clarification
 * Encourages detailed answers
 
-### ✅ Efficient User
+### Efficient User
 
 Short responses
 
@@ -184,7 +184,7 @@ Agent Response:
 
 * Follow-up prompts for expansion
 
-### ✅ Chatty User
+### Chatty User
 
 Long off-topic answers
 
@@ -192,7 +192,7 @@ Agent Response:
 
 * Redirects to structured response
 
-### ✅ Edge Case User
+### Edge Case User
 
 Empty / Invalid input
 
@@ -252,7 +252,7 @@ Ensure proxy is correctly set in package.json:
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 ```
 interview-practice-agent/
@@ -274,7 +274,7 @@ interview-practice-agent/
 
 ---
 
-## ✅ Evaluation Alignment
+## Evaluation Alignment
 
 | Criteria                 | How it's addressed                       |
 | ------------------------ | ---------------------------------------- |
@@ -286,7 +286,7 @@ interview-practice-agent/
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project delivers an intelligent, interactive interview practice experience that adapts in real-time to simulate realistic interviews. By focusing on conversation quality, clarity, and structured evaluation, it provides users with meaningful performance feedback and improvement insights.
 
@@ -294,5 +294,5 @@ Designed to meet all specified assignment requirements and optimized for evaluat
 
 ---
 
-📌 Author: Swetha T
-📅 Submission Type: AI Agent Demo
+ Author: Swetha T
+ Submission Type: AI Agent Demo
